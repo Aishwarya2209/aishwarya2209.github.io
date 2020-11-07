@@ -18,7 +18,7 @@ I am passionate about working at the forefront of chronic disease prevention in 
 
 ### **Academic and Professional Summary**
 
-You can learn more about my academic and professional accomplishments [here](file:///Users/temporary/Desktop/aishwarya2209.github.io/aishwarya2209.github.io/about.html)
+You can learn more about my academic and professional accomplishments [here](about.html)
 
 ### **Github** 
 
