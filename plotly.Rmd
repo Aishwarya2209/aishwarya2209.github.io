@@ -1,19 +1,21 @@
 ---
-title: "NOAA Dashboard"
+title: "Plotly"
 output: 
-  flexdashboard::flex_dashboard:
-    orientation: columns
-    vertical_layout: fill
+  html_document:
+    message: false
+    toc: true
+    toc_float: true
+    theme: flatly
+    
 ---
+I have added my files with _interaction graphics_ here !!
 
-```{r setup, include=FALSE}
-library(flexdashboard)
+```{r}
 library(tidyverse)
 library(viridis)
 library(p8105.datasets)
 library(plotly)
 ```
-
 ```{r}
 data("ny_noaa") 
 ny_noaa_new =
@@ -40,10 +42,6 @@ ny_noaa_new =
   )
 ```
 
-Column {data-width=650}
------------------------------------------------------------------------
-
-### Chart A
 
 ```{r}
 ny_noaa_new %>%
@@ -53,6 +51,7 @@ plot_ly(
       color = ~month, text = ~text_label) %>%
 layout(title = "Minimum and Maximum temperature in Central Park, NY from 1991-2000")
 ```
+
 
 
 ```{r}
@@ -80,18 +79,12 @@ summarise(
     )
 ```
 
-Column {data-width=350}
------------------------------------------------------------------------
-
-### Chart B
-
 ```{r}
 weather_df %>%
    plot_ly(x = ~month, y = ~avg_prcp, color = ~month, type = "bar") %>%
-  layout(title = "Avg. precipitation in Central Park, NY in 2000"
+  layout(title = "Average precipitation in Central Park, NY in 2000"
          )
 ```
-
 
 ```{r}
 ny_noaa_new = 
@@ -117,13 +110,10 @@ ny_noaa_new =
      month, "January","February","March","April","May","June","July","August","September","October","November","December")
     )
 ```
-
-### Chart C
-
 ```{r}
 ny_noaa_new %>%
 plot_ly(y = ~tmax, color = ~month, type = "box",
           colors = "Set2") %>%
-  layout(title = "Max.temp in Central Park, NY in 2000"
+  layout(title = "Mximum temperature across all the months in Central Park, NY in 2000"
          )
 ```

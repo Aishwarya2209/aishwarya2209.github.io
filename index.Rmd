@@ -4,7 +4,6 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: flatly
 ---
 **Hello World! Welcome to my Website!**
 
