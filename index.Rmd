@@ -1,0 +1,23 @@
+---
+title: "Aishwarya Anuraj"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+**Hello World! Welcome to my Website!**
+
+<img src="AA.jpg" style="width:65%">
+
+
+### **About Me**
+
+I'm an _Epidemiology student_ and a _Chronic Disease Researcher_ with a medical background. I am currently doing my Masters in Public Health in Epidemiology at _Columbia University Mailman School of Public Health_ . My expected date of graduation is in May, 2021. I am a Doctor from India and graduated from medical school in March 2019. 
+I am passionate about working at the forefront of chronic disease prevention in areas such as cancer, neurological and cardiovascular diseases. I plan to do a residency in Internal medicine in the future and work more on Chronic diseases. I love challenges and enjoy coming up with innovative solutions to challenging problems. 
+
+
+### **Github** 
+
+Visit my [Github](http://github.com/Aishwarya2209/) to see my Repositories where I have my Data Science Assignments. 
+

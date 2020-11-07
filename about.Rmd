@@ -1,0 +1,124 @@
+---
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+
+# Summary 
+
+A Doctor, currently an Epidemiology student studying more about Clinical data research and Analysis. Passionate about leveraging research data to assess and improve health care, coupled with a specialization in preventative medicine to control chronic diseases like cancer, cardiovascular, and neurological conditions that impact the population motivates me. I have been collaborating across medical and public health specialists in the past, as well as have a history of communicating with a diverse group of patients, which has enabled me to champion team leadership
+
+------------------------------------------------------------------------------------------------------
+
+# Work Experience
+
+**New York Presbyterian Hospital, Department of Oncology** 
+
+**_Research Assistant (since May, 2020)_**  
+  
+◆	Gathered/reviewed/summarized literature from scientific journals: PubMed/JAMA that identified gaps in previous research 
+
+◆	Built Logistic Regression models using SAS; assessed association of CNN based Breast cancer model to breast cancer risk assessment
+
+o	Analyzed breast cancer risk among women with LCIS,DCIS; performed exploratory data analysis on DBSR dataset using SAS
+
+	Created visualizations of findings using R; wrote/reviewed drafts—reports/posters/manuscripts 
+
+o	Presented Research findings to 50+ researchers/200+ graduate students at Mailman School of Public Health
+
+◆	Created datasets for analysis; performed data cleaning; identified/generated key features explaining the stroke risk factors 
+
+o	Built logistic regression models using SAS and R; 
+
+
+	Concluded: Our CNN-based mammographic evaluation is modifiable with anti-estrogen therapy among high-risk women
+
+
+◆	Created metrics/visualizations using ggplot2/R to summarize results of statistical analyses; presented results to stakeholders
+
+o	Allowed identification of patterns within the data set; facilitated comprehension of findings to the stakeholders 
+
+
+**Columbia University Mailman School of Public Health**
+
+**_Graduate Teaching Assistant (since August, 2020)_** 
+  
+Graduate Teaching Assistant for _Integration of Science and  Practice_.
+  
+◆ Facilitated classroom discussions focused on academic and intellectual topics to further students' critical thinking skills as well as an understanding of the materials presented, providing academic support to 400+ students
+
+◆ Evaluated student assignments, projects, exams, and assisted students with course material during regular office hours
+
+◆ Assisted in adapting the course to be taught and administered entirely online due to the COVID-19 pandemic
+
+
+**_Clinical Intern (March 2018 to March 2019)_**
+
+◆ Completed compulsory rotational internship; gained clinic training—various specialties of medicine and surgery
+
+o	Scheduled appointments, maintained records, and conducted medical treatments on 1000+ patients within one year
+
+◆	Developed/implemented medical care plans for 40+ patients/week; monitored progress/maintained records to evaluate 
+
+◆	Planned/coordinated/organized multiple intensive medical health awareness campaign at along with various NGOs
+
+
+------------------------------------------------------------------------------------------------------
+
+# Education
+
+**Columbia University Mailman School of Public Health, New York, NY**
+
+**_Master of Public Health in Epidemiology | Certificate: Epidemiology of Chronic Diseases: Expected graduation, May 2021_**                                              
+
+Relevant coursework:
+  
+_Epidemiology_: Research Methods & Applications, Design and Conduct of Observational Epidemiology, Principles of Epidemiology III- Applied Epidemiologic Analysis, Application of Epidemiologic Research Methods using SAS, Chronic Disease Epidemiology, Cancer Epidemiology
+
+_Biostatistics_: Analysis of Categorical Data, Data Science I(R programming), Relational Databases And SQL Programming 
+
+_Other relevant courses_: Foundation of Public Health, Global and Developmental Perspectives, Public Health Interventions, Determinants of Health, Health Systems, Leadership Development, Integration of Science and Practice, Public Health GIS
+
+**Rajiv Gandhi University of Health Sciences, India**
+
+**_Bachelor of Medicine, Bachelor of Surgery (MBBS), Equivalent to MD in the US: Graduated- March 2019_** 
+
+Coursework: 
+
+_Year 1_: General Human Anatomy including Embryology and Histology, General Human Physiology and Biochemistry
+
+_Year 2_:  General Pathology, Microbiology, General Pharmacology and Therapeutics, Forensic Medicine
+
+_Year 3_: Community Medicine, Ophthalmology, ENT
+
+_Year 4_: General Medicine, General Surgery, Obstetrics & Gynecology, Pediatrics 
+
+------------------------------------------------------------------------------------------------------
+
+# Skills and Certifications
+
+◆ **Programming:** SAS, STATA, SQL, R
+
+◆ **Database Management tools:** MS Access, MySQL
+
+◆ **Data Visualisation tools:** Shiny, Plotly, ggplot2, Tableau, Flexdashboard 
+
+◆ **Microsoft Office Suite:** MS-Word, MS-Excel, MS-PowerPoint, MS Access, MS Outlook
+
+◆ **Certifications:** HIPAA, CITI, Epidemiology of Chronic Diseases, Data Science- R basics, Advanced SQL for Data Scientists
+
+◆ **Languages:** English, Hindi, French, Maithili, Kannada.
+
+------------------------------------------------------------------------------------------------------
+
+# Volunteer Leadership 
+
+**Columbia University Irving Medical Center**
+
+**Covid-19 Studnet Service Corps**
+
+◆ Responsible for designing and organising accessible information materials for COVID-19 patients and general public to better convey the important information to people with limited health literacy skills
+
+◆ Reviewing and summarising literature from scientific journals and creating a database of the reviewed literature
